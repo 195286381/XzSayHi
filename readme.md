@@ -6,7 +6,7 @@
 
 [简书url]: http://www.jianshu.com/users/36fa4b692d28/latest_articles
 
-* ##### 小猪的个人[微博](http://weibo.com/u/2677921823) :neckbeard:
+* ##### 小猪的[个人微博](http://weibo.com/u/2677921823) :neckbeard:
 
 * ##### 小猪的[简书][简书url] :neckbeard:
 
