@@ -11,8 +11,7 @@
 * ##### 小猪的[简书][简书url] :neckbeard:
 
 ```javascript
-  'use strict'
-  (function() {
+  (() => {
     console.log('welcome to my github!');
   })();
 ```
